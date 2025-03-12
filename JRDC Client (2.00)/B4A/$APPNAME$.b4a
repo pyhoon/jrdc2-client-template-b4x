@@ -28,8 +28,8 @@ Version=12.8
 @EndOfDesignText@
 #Region  Project Attributes 
 	#ApplicationLabel: JRDC Client
-	#VersionCode: 2
-	#VersionName: 2.0.0
+	#VersionCode: 3
+	#VersionName: 2.1.0
 	'SupportedOrientations possible values: unspecified, landscape or portrait.
 	#SupportedOrientations: portrait
 	#CanInstallToExternalStorage: False

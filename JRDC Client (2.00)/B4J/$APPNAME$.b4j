@@ -6,12 +6,12 @@ File3=MainPage.bjl
 File4=ProductItem.bjl
 File5=template_category.json
 File6=template_product.json
-FileGroup1=New Group
-FileGroup2=New Group
-FileGroup3=New Group
-FileGroup4=New Group
-FileGroup5=New Group
-FileGroup6=New Group
+FileGroup1=Default Group
+FileGroup2=Default Group
+FileGroup3=Default Group
+FileGroup4=Default Group
+FileGroup5=Default Group
+FileGroup6=Default Group
 Group=Default Group
 Library1=b4xpages
 Library2=b4xpreferencesdialog
@@ -27,7 +27,7 @@ NumberOfLibraries=7
 NumberOfModules=2
 Version=10
 @EndOfDesignText@
-' Version 2.00
+' Version 2.10
 #Region Project Attributes 
 	#MainFormWidth: 600
 	#MainFormHeight: 600 
